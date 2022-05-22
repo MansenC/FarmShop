@@ -1,0 +1,9 @@
+﻿{
+  "Name": "FarmShop",
+  "Author": "MansenC",
+  "Version": "0.0.1",
+  "Description": "Adds the ability to sell goods from your farm",
+  "UniqueID": "Madia.FarmShop",
+  "EntryDll": "FarmShop.dll",
+  "MinimumApiVersion": "3.14.4"
+}
